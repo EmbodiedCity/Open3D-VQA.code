@@ -6,7 +6,7 @@
 [![Hugging Face](https://img.shields.io/badge/Dataset-Huggingface-orange.svg)](https://huggingface.co/datasets/EmbodiedCity/Open3DVQA-v2)
 ______________________________________________________________________
 
-[**📄 Open3DVQA: A Benchmark for Comprehensive Spatial Reasoning with Multimodal Large Language Model in Open Space**](<https://www.arxiv.org/abs/2503.11094>)
+[**📄 Open3DVQA: A Benchmark for Comprehensive Spatial Reasoning with Multimodal Large Language Model in Open Space**](<https://dl.acm.org/doi/abs/10.1145/3746027.3758219>)
 
 We present Open3DVQA, a novel benchmark for evaluating MLLMs' ability to reason about complex spatial relationships from an aerial perspective.The QAs are automatically generated from spatial relations extracted from both real-world and simulated aerial scenes.
 
