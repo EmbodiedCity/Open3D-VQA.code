@@ -433,7 +433,7 @@ Please download the Open3D-VQA dataset, ClipSeg and SAM:
 Organize all codes and resources according to the following directory structure:
 ```
 Open3D-VQA.code/
-├── dataset/
+├── O3DVQA/
 │   ├── EmbodiedCity/
 │   │   ├── Wuhan/
 │   │   │   ├── depth/
