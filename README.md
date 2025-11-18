@@ -1,7 +1,5 @@
 # Open3D-VQA: A Benchmark for Embodied Spatial Concept Reasoning with Multimodal Large Language Model in Open Space
 
-[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/release/python-3100/)
-[![Hugging Face](https://img.shields.io/badge/Dataset-Huggingface-orange.svg)](https://huggingface.co/datasets/EmbodiedCity/Open3DVQA-v2)
 <p align="center">
   <a href="CODE_LICENSE">
     <img src="https://img.shields.io/badge/Code%20License-Apache_2.0-green.svg">
