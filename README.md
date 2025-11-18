@@ -8,7 +8,7 @@
 </div>
 <hr>
 
-We present Open3D-VQA, a novel benchmark for evaluating MLLMs' ability to reason about complex spatial relationships from an aerial perspective.The QAs are automatically generated from spatial relations extracted from both real-world and simulated aerial scenes.
+We present **Open3D-VQA**, a novel benchmark for evaluating MLLMs' ability to reason about complex spatial relationships from an **aerial perspective**.The QAs are automatically generated from spatial relations extracted from both real-world and simulated aerial scenes.
 
 ![Open3D-VQA Overview](figure/data_overview.jpg)
 
@@ -22,7 +22,7 @@ ______________________________________________________________________
 
 ## ✅ Open3D-VQA Benchmark
 
-Open3D-VQA is a novel benchmark evaluating MLLMs' ability to reason about complex spatial relationships from an aerial view. It contains **89k** QA pairs across **7** spatial reasoning tasks—including multiple-choice, true/false, and short-answer formats—and supports both visual and point cloud data. Questions are automatically generated from spatial relations in real-world and simulated aerial scenes.
+Open3D-VQA contains **89k** QA pairs across **7** spatial reasoning tasks—including multiple-choice, true/false, and short-answer formats—and supports both visual and point cloud data. Questions are automatically generated from spatial relations in real-world and simulated aerial scenes.
 
 **💡 Key highlights:**
 
@@ -506,7 +506,7 @@ ______________________________________________________________________
 
 ## 🙏 Acknowledgement
 
-We have used code snippets from different repositories, especially from: LLaVA, Qwen2-VL and VQASynth. We would like to acknowledge and thank the authors of these repositories for their excellent work.
+We have used code snippets from different repositories, especially from: LLaVA, Qwen2-VL, VQASynth and VGGT. We would like to acknowledge and thank the authors of these repositories for their excellent work.
 
 ______________________________________________________________________
 
