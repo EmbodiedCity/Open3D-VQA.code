@@ -1,29 +1,29 @@
-# Open3DVQA: A Benchmark for Embodied Spatial Concept Reasoning with Multimodal Large Language Model in Open Space
+# Open3D-VQA: A Benchmark for Embodied Spatial Concept Reasoning with Multimodal Large Language Model in Open Space
 
 [![Code License](https://img.shields.io/badge/Code%20License-Apache_2.0-green.svg)](CODE_LICENSE)
 [![Code License](https://img.shields.io/badge/Data%20License-Apache_2.0-green.svg)](CODE_LICENSE)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/release/python-3100/)
-[![Hugging Face](https://img.shields.io/badge/Dataset-Huggingface-orange.svg)](https://huggingface.co/datasets/EmbodiedCity/Open3DVQA-v2)
+[![Hugging Face](https://img.shields.io/badge/Dataset-Huggingface-orange.svg)](https://huggingface.co/datasets/EmbodiedCity/Open3D-VQA-v2)
 ______________________________________________________________________
 
-[**📄 Open3DVQA: A Benchmark for Comprehensive Spatial Reasoning with Multimodal Large Language Model in Open Space**](<https://dl.acm.org/doi/abs/10.1145/3746027.3758219>)
+[**📄 Open3D-VQA: A Benchmark for Comprehensive Spatial Reasoning with Multimodal Large Language Model in Open Space**](<https://dl.acm.org/doi/abs/10.1145/3746027.3758219>)
 
-We present Open3DVQA, a novel benchmark for evaluating MLLMs' ability to reason about complex spatial relationships from an aerial perspective.The QAs are automatically generated from spatial relations extracted from both real-world and simulated aerial scenes.
+We present Open3D-VQA, a novel benchmark for evaluating MLLMs' ability to reason about complex spatial relationships from an aerial perspective.The QAs are automatically generated from spatial relations extracted from both real-world and simulated aerial scenes.
 
-![Open3DVQA Overview](figure/data_overview.jpg)
+![Open3D-VQA Overview](figure/data_overview.jpg)
 
 ______________________________________________________________________
 
 ## 📢 News
 - **Aug-01-2025**- Our paper is accepted by ACM MM 2025! 🔥
-- **Jun-03-2025**- Open3DVQA v2 is released at [Open3DVQA-v2](https://github.com/WeichenZh/Open3DVQA/tree/o3dvqa_v2)! 🔥
-- **Mar-15-2025**- Open3DVQA preprint released at [Arxiv](https://www.arxiv.org/abs/2503.11094)! 🔥
-- **Feb-27-2025**- Open3DVQA code/dataset released! 🔥
+- **Jun-03-2025**- Open3D-VQA v2 is released at [Open3D-VQA-v2](https://github.com/WeichenZh/Open3DVQA/tree/o3dvqa_v2)! 🔥
+- **Mar-15-2025**- Open3D-VQA preprint released at [Arxiv](https://www.arxiv.org/abs/2503.11094)! 🔥
+- **Feb-27-2025**- Open3D-VQA code/dataset released! 🔥
 ______________________________________________________________________
 
-## ✅ Open3DVQA Benchmark
+## ✅ Open3D-VQA Benchmark
 
-Open3DVQA is a novel benchmark evaluating MLLMs' ability to reason about complex spatial relationships from an aerial view. It contains **89k** QA pairs across **7** spatial reasoning tasks—including multiple-choice, true/false, and short-answer formats—and supports both visual and point cloud data. Questions are automatically generated from spatial relations in real-world and simulated aerial scenes.
+Open3D-VQA is a novel benchmark evaluating MLLMs' ability to reason about complex spatial relationships from an aerial view. It contains **89k** QA pairs across **7** spatial reasoning tasks—including multiple-choice, true/false, and short-answer formats—and supports both visual and point cloud data. Questions are automatically generated from spatial relations in real-world and simulated aerial scenes.
 
 **💡 Key highlights:**
 
@@ -425,9 +425,9 @@ export OPENAI_API_KEY=your_api_key_here
 
 **3. Download dataset and models**
   
-Please download the Open3DVQA dataset, ClipSeg and SAM: 
+Please download the Open3D-VQA dataset, ClipSeg and SAM: 
 
-- [Open3DVQA dataset](https://huggingface.co/datasets/EmbodiedCity/Open3DVQA-v2)
+- [Open3D-VQA dataset](https://huggingface.co/datasets/EmbodiedCity/Open3DVQA-v2)
 - [ClipSeg model](https://huggingface.co/CIDAS/clipseg-rd64-refined)
 - [SAM model](https://huggingface.co/facebook/sam-vit-huge)
 
