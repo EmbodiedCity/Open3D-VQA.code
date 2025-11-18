@@ -504,3 +504,19 @@ ______________________________________________________________________
 ## 🙏 Acknowledgement
 
 We have used code snippets from different repositories, especially from: LLaVA, Qwen2-VL and VQASynth. We would like to acknowledge and thank the authors of these repositories for their excellent work.
+
+______________________________________________________________________
+
+## 📝 Citing Open3D-VQA
+
+If you use Open3D-VQA in your research, please use the following BibTeX entry.
+
+```bibtex
+@inproceedings{zhang2025open3d,
+  title={Open3D-VQA: A Benchmark for Embodied Spatial Concept Reasoning with Multimodal Large Language Model in Open Space},
+  author={Zhang, Weichen and Zhou, Zile and Zeng, Xin and Xuchen, Liu and Fang, Jianjie and Gao, Chen and Cui, Jinqiang and Li, Yong and Chen, Xinlei and Zhang, Xiao-Ping},
+  booktitle={Proceedings of the 33rd ACM International Conference on Multimedia},
+  pages={12784--12791},
+  year={2025}
+}
+```
