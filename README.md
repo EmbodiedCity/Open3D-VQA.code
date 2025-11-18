@@ -432,7 +432,7 @@ Please download the Open3D-VQA dataset, ClipSeg and SAM:
 
 Organize all codes and resources according to the following directory structure:
 ```
-Open3DVQA/
+Open3D-VQA.code/
 ├── dataset/
 │   ├── EmbodiedCity/
 │   │   ├── Wuhan/
@@ -457,6 +457,9 @@ Open3DVQA/
 │   │   ├── clipseg/
 │   │   ├── sam/
 │   ├── ...
+├── vggt/
+│   ├── models/
+│   ├── utils/
 ├── qa_pipeline.py
 ├── inference.py
 ├── evaluation.py
