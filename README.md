@@ -2,9 +2,9 @@
 
 <div align="center" style="line-height: 1;">
   <a href="https://dl.acm.org/doi/abs/10.1145/3746027.3758219" target="_blank"><img alt="Homepage"
-    src="https://img.shields.io/badge/Paper-Published-green.svg"/></a>
+    src="https://img.shields.io/badge/Paper-ACM MM-green.svg"/></a>
   <a href="https://huggingface.co/datasets/EmbodiedCity/Open3DVQA-v2" target="_blank"><img alt="Hugging Face"
-    src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Open3D%20VQA-ffc107?color=ffc107&logoColor=white"/></a>
+    src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Open3DVQA%20-ffc107?color=ffc107&logoColor=white"/></a>
 </div>
 <hr>
 
