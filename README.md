@@ -16,7 +16,6 @@ ______________________________________________________________________
 
 ## 📢 News
 - **Aug-01-2025**- Our paper is accepted by ACM MM 2025! 🔥
-- **Jun-03-2025**- Open3D-VQA v2 is released at [Open3D-VQA-v2](https://github.com/WeichenZh/Open3DVQA/tree/o3dvqa_v2)! 🔥
 - **Mar-15-2025**- Open3D-VQA preprint released at [Arxiv](https://www.arxiv.org/abs/2503.11094)! 🔥
 - **Feb-27-2025**- Open3D-VQA code/dataset released! 🔥
 ______________________________________________________________________
