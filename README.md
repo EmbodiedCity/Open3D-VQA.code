@@ -408,8 +408,8 @@ We've also made the QA generation pipeline available. Before running the code, m
 Install all required Python packages and dependencies. You can use the provided `requirements.txt`:
 
 ```bash
-git clone https://github.com/WeichenZh/Open3DVQA.git
-cd Open3DVQA
+git clone https://github.com/EmbodiedCity/Open3D-VQA.code.git
+cd Open3D-VQA.code
 conda create -n o3dvqa python=3.10 -y
 conda activate o3dvqa
 pip install -r requirements.txt
