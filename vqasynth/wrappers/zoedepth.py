@@ -15,9 +15,10 @@ class ZoeDepth:
     def __init__(self):
         #self.conf = get_config("zoedepth", "infer")
         #self.depth_model = build_model(self.conf)
-        self.depth_model = torch.hub.load(repo_or_dir='E:\\ZWC\\py-pro\\VQASynth\\vqasynth\\external\\ZoeDepth',
-                                          model="ZoeD_N", source='local', 
-                                          pretrained=True).to("cuda").eval()
+        self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+        self.depth_model = torch.hub.load(repo_or_dir='isl-org/ZoeDepth',
+                                          model="ZoeD_N",
+                                          pretrained=True).to(self.device).eval()
 
     def infer_depth(self, img):
         depth = self.depth_model.infer_pil(img)

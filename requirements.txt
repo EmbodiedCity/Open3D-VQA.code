@@ -35,3 +35,4 @@ filelock>=3.16.1
 requests>=2.32.3
 packaging>=24.2
 scikit-image
+einops
