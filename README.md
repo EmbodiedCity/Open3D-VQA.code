@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/python-3.10+-blue.svg">
   </a>
   <a href="https://huggingface.co/datasets/EmbodiedCity/Open3DVQA-v2">
-    <img src="https://img.shields.io/badge/HuggingFace-Dataset-FCC624?logo=huggingface&logoColor=white">
+    <img src="https://img.shields.io/badge/Dataset-HuggingFace-orange?logo=huggingface&logoColor=white">
   </a>
   <a href="https://dl.acm.org/doi/abs/10.1145/3746027.3758219">
     <img src="https://img.shields.io/badge/Paper-Published-green.svg">
