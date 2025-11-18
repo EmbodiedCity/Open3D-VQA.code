@@ -1,17 +1,12 @@
 # Open3D-VQA: A Benchmark for Embodied Spatial Concept Reasoning with Multimodal Large Language Model in Open Space
 
-<p align="center">
-  <a href="https://dl.acm.org/doi/abs/10.1145/3746027.3758219">
-    <img src="https://img.shields.io/badge/Paper-Published-green.svg">
-  </a>
-  <a href="https://huggingface.co/datasets/EmbodiedCity/Open3DVQA-v2">
-    <img src="https://img.shields.io/badge/Dataset-Huggingface-orange.svg">
-  </a>
-</p>
-
-______________________________________________________________________
-
-[**📄 Open3D-VQA: A Benchmark for Comprehensive Spatial Reasoning with Multimodal Large Language Model in Open Space**](<https://dl.acm.org/doi/abs/10.1145/3746027.3758219>)
+<div align="center" style="line-height: 1;">
+  <a href="https://dl.acm.org/doi/abs/10.1145/3746027.3758219" target="_blank"><img alt="Homepage"
+    src="https://img.shields.io/badge/Paper-Published-green.svg"/></a>
+  <a href="https://huggingface.co/datasets/EmbodiedCity/Open3DVQA-v2" target="_blank"><img alt="Hugging Face"
+    src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Open3D%20VQA-ffc107?color=ffc107&logoColor=white"/></a>
+</div>
+<hr>
 
 We present Open3D-VQA, a novel benchmark for evaluating MLLMs' ability to reason about complex spatial relationships from an aerial perspective.The QAs are automatically generated from spatial relations extracted from both real-world and simulated aerial scenes.
 
