@@ -1,4 +1,10 @@
-# Open3D-VQA: A Benchmark for Embodied Spatial Concept Reasoning with Multimodal Large Language Model in Open Space
+<h1 align="center">
+Open3D-VQA: A Benchmark for Embodied Spatial Concept Reasoning with Multimodal Large Language Model in Open Space
+</h1>
+
+<h3 align="center">
+ACM MM 2025
+</h3>
 
 <div align="center" style="line-height: 1;">
   <a href="https://dl.acm.org/doi/abs/10.1145/3746027.3758219" target="_blank"><img alt="Homepage"
